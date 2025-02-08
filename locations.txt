@@ -1,0 +1,12 @@
+San Martín (Mza)=13026
+Mendoza=11866
+Corrientes=18780
+San Luís=3783
+Retiro (BS. As.)=3373
+Puerto Iguazú (Misiones)=13629
+Jujuy=22103
+Salta=221
+San Rafael (Mza)=13148
+Posadas (Misiones)=13507
+Córdoba=20121
+Río Cuarto (Córdoba)=21024
