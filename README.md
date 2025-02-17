@@ -1,6 +1,6 @@
 # Ticket Checker
 
-## A Python application that checks ticket availability for a given route and date range.
+## A little tool for personal use that simplifies the consultation of available bus tickets with CUD (Unique Disability Certificate)
 
 ### Features
 
@@ -100,10 +100,10 @@
   ```
   Que desea hacer?
   » Nueva consulta
-   Enviar reporte de consultas guardadas
-   Ver consultas guardadas
-   Limpiar consultas guardadas
-   Salir
+    Enviar reporte de consultas guardadas
+    Ver consultas guardadas
+    Limpiar consultas guardadas
+    Salir
   ```
 
   - If you select `Nueva consulta`:
