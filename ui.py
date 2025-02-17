@@ -143,17 +143,14 @@ quantity_select.grid(row=7, column=1, padx=5, pady=5)
 clear_button = tk.Button(root, text="Limpiar consultas", command=clear_saved_consults)
 clear_button.grid(row=8, column=0, padx=5, pady=10, sticky="ew")
 
-add_button = tk.Button(root, text="Agendar consulta", command=schedule_consult)
-add_button.grid(row=8, column=1, padx=5, pady=10, sticky="ew")
-
 save_consult_button = tk.Button(root, text="Guardar consulta", command=save_consult)
-save_consult_button.grid(row=9, column=0, padx=5, pady=10, sticky="ew")
+save_consult_button.grid(row=8, column=1, padx=5, pady=10, sticky="ew")
 
 view_consults_button = tk.Button(root, text="Reporte de consultas guardadas", command=make_saved_consults)
-view_consults_button.grid(row=9, column=1, padx=5, pady=10, sticky="ew")
+view_consults_button.grid(row=9, column=0, padx=5, pady=10, sticky="ew")
 
 submit_button = tk.Button(root, text="Consultar", command=make_current_consult)
-submit_button.grid(row=10, column=0, columnspan=2, padx=5, pady=10, sticky="ew")
+submit_button.grid(row=9, column=1, padx=5, pady=10, sticky="ew")
 
 # Start the Tkinter event loop
 root.mainloop()
