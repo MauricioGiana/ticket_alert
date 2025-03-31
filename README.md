@@ -68,7 +68,7 @@
 - Run the application:
 
   ```
-  puthon3 ui.py
+  make start
   ```
 
 - Enter the origin, destination, date range, and quantity in the GUI interface:
@@ -92,7 +92,7 @@
 - Start the command interface:
 
   ```
-  puthon3 term_ui.py
+  make start-terminal
   ```
 
 - Select what to do:
